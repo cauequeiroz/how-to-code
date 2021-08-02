@@ -3,7 +3,7 @@
 In this repository will store my solutions for University of British Columbia courses [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) and [How to Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data).
 
 **How to Code: Simple Data**
-- [ ] 1a: Beginning Student Language
+- [x] 1a: Beginning Student Language
 - [ ] 1b: How to Design Functions
 - [ ] 2: How to Design Data
 - [ ] 3a: How to Design Worlds
