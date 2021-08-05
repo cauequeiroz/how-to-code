@@ -6,7 +6,7 @@ In this repository will store my solutions for University of British Columbia co
 - [x] 1a: Beginning Student Language
 - [x] 1b: How to Design Functions
 - [x] 2: How to Design Data
-- [ ] 3a: How to Design Worlds
+- [x] 3a: How to Design Worlds
 - [ ] 3b: Compound Data
 - [ ] 4a: Self-Reference
 - [ ] 4b: Reference
