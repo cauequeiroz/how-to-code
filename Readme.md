@@ -10,7 +10,7 @@ In this repository will store my solutions for University of British Columbia co
 - [x] 3b: Compound Data
 - [x] 4a: Self-Reference
 - [x] 4b: Reference
-- [ ] 5a: Naturals
+- [x] 5a: Naturals
 - [ ] 5b: Helpers
 - [ ] 6: Binary Search Trees
  
