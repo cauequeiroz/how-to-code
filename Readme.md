@@ -11,7 +11,7 @@ In this repository will store my solutions for University of British Columbia co
 - [x] 4a: Self-Reference
 - [x] 4b: Reference
 - [x] 5a: Naturals
-- [ ] 5b: Helpers
+- [x] 5b: Helpers
 - [ ] 6: Binary Search Trees
  
 
