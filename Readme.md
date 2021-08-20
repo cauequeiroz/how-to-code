@@ -13,7 +13,7 @@ In this repository will store my solutions for University of British Columbia co
 - [x] 5a: Naturals
 - [x] 5b: Helpers
 - [x] 6: Binary Search Trees
-- [ ] Space Invaders
+- [x] Space Invaders
  
 
 
