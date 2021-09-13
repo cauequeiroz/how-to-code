@@ -16,7 +16,7 @@ In this repository will store my solutions for University of British Columbia co
 - [x] Space Invaders
  
 **How to Code: Complex Data**  
-- [ ] 7: Mutual Reference
+- [x] 7: Mutual Reference
 - [ ] 8a: Two One-of Types
 - [ ] 8b: Local
 - [ ] 9: Abstraction
