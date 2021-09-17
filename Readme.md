@@ -19,7 +19,7 @@ In this repository will store my solutions for University of British Columbia co
 - [x] 7: Mutual Reference
 - [x] 8a: Two One-of Types
 - [x] 8b: Local
-- [ ] 9: Abstraction
+- [x] 9: Abstraction
 - [ ] 10a: Generative Recursion
 - [ ] 10b: Search
 - [ ] 11: Accumulators
