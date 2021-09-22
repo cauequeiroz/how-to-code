@@ -21,7 +21,7 @@ In this repository will store my solutions for University of British Columbia co
 - [x] 8b: Local
 - [x] 9: Abstraction
 - [x] 10a: Generative Recursion
-- [ ] 10b: Search
+- [x] 10b: Search
 - [ ] 11: Accumulators
 - [ ] 12: Graphs
 - [ ] Final Project
