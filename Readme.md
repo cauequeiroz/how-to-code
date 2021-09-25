@@ -23,5 +23,5 @@ In this repository will store my solutions for University of British Columbia co
 - [x] 10a: Generative Recursion
 - [x] 10b: Search
 - [x] 11: Accumulators
-- [ ] 12: Graphs
+- [x] 12: Graphs
 
